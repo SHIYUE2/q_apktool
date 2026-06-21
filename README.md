@@ -4,6 +4,8 @@
 
 QApkTool 是基于 [Apktool](https://github.com/iBotPeaches/Apktool) 的 Windows 图形化封装，提供 APK 文件的反编译（`d`）与回编译（`b`）一键操作，内置 Java 运行环境与 Python 解释器，解压即用，无需额外配置。
 
+一键包下载https://1827962863.share.123865.com/123pan/jr6ujv-vyOMv
+
 ## 功能特性
 
 - 支持 APK 反编译（解码 smali 代码与资源文件）
